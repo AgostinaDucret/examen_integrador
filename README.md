@@ -1,1 +1,2 @@
-# examen_integrador
+Agostina Ducret
+Cristhian Gianatiempo
